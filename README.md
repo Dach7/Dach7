@@ -1,17 +1,20 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Dacxell</h1></summary>
-  </ul>
-</div>
+<h1 align="center">Hi 👋, I'm Dacxell</h1>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+<h2 align="center">About me👨🏻‍💻</h2>
+
+<p align="left">
+  🎓 Software engineer - Videogame developer
+
+  💻 I like to code some experiments in my spare time, most recently with ai
+
+
+</p>
+
+<h2 align="center">Technologies That I Know👨🏻‍💻</h2>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -20,6 +23,8 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="center">Some Stats📈</h2></summary>
 
 <p align="center">
 <div align=center>
