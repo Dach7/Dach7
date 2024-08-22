@@ -20,7 +20,7 @@
 </p>
 
 <div align=center style="margin-bottom: 30px; display: flex; justify-content: center">
-  <img align="center" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dach7&theme=dark&hide_border=false" style="width: 40%" /> 
+  <img align="center" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dach7&theme=dark&hide_border=false&margin-h=15&margin-w=5" style="width: 40%" /> 
 </div>
 
 <div align=center>
