@@ -20,9 +20,7 @@
 </p>
 
 
-<div align=center style="margin: 40; display: flex; justify-content: center">
-  <img align="center" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dach7&theme=dark&hide_border=false" style="width: 55%" /> 
-</div>
+
 
 <div align=center style="display: flex; justify-content: center">
     <img align="center" width=24% src="https://github-trophies.vercel.app/?username=Dach7&theme=radical&row=2&column=2&margin-h=15&margin-w=5&no-bg=true&rank=SECRET" alt="TROPHY" />
