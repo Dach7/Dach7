@@ -19,9 +19,14 @@
   </a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center">
 <div align=center>
     <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Dach7&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />    
 </div>
+</p>
+
 
 <p>
 
