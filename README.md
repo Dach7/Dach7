@@ -23,11 +23,9 @@
     <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Dach7&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />    
 </div>
 
-<div align=center style="margin-bottom: 30; display: flex; justify-content: center">
-  <img align="center" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dach7&theme=dark&hide_border=false&margin-h=15&margin-w=5" style="width: 40" /> 
+<div align=center style="margin-top: 30px; display: flex; justify-content: center">
+  <img align="center" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dach7&theme=dark&hide_border=false&margin-h=15&margin-w=5" style="width: 40%" /> 
 </div>
-
-<span>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--
