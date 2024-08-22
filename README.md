@@ -23,6 +23,8 @@
   <img align="center" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dach7&theme=dark&hide_border=false&margin-h=15&margin-w=5" style="width: 40%" /> 
 </div>
 
+<span>
+
 <div align=center>
     <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Dach7&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />    
 </div>
