@@ -24,20 +24,20 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 **Software Engineer** & **Videogame Developer**
-- 💻 I love coding experiments in my spare time
-- 🤖 Currently exploring the world of **AI**
-- 🎮 Passionate about creating interactive experiences
+- 📍 From **Bogotá, Colombia** 🇨🇴
+- 🎓 Studying at **Politécnico Grancolombiano**
+- 💻 **Software Engineer** & **Videogame Developer**
+- 🤖 Exploring the world of **AI** in my spare time
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚡ Quick Facts
 
-- 🔭 Currently working on **personal projects**
 - 🌱 Always learning something new
+- 🎮 Passionate about creating interactive experiences
 - 💬 Ask me about **game dev, web dev, or AI**
-- 🎯 Goal: Build things that matter
+- 🎯 Goal: Work on what I love — building cool stuff
 
 </td>
 </tr>
@@ -102,6 +102,22 @@
 
 <div align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dach7&theme=redical&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" alt="Activity Graph" />
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- SNAKE ANIMATION -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dach7/Dach7/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dach7/Dach7/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Dach7/Dach7/output/github-snake-dark.svg" width="100%" />
+  </picture>
 </div>
 
 <br>
