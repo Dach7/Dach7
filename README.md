@@ -78,7 +78,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img width="84%" src="https://github-profile-trophy.vercel.app/?username=Dach7&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+  <img width="84%" src="https://github-profile-trophy-liard-delta.vercel.app/?username=Dach7&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
 </div>
 
 <br>
